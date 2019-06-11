@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e0282a7-af69-4c9e-b586-03c02d81d09c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/teachers_learners/Learner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/teachers_learners/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/teachers_learners/Subjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/teachers_learners/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/teachers_learners/Testss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,26 +22,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/teachers_learners/Testss.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/teachers_learners/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/teachers_learners/Subjects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/teachers_learners/Learner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#178#196#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/teachers_learners/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +102,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/on/onn/Class1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/on/onn/Class2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/on/onn/jj.form" />
+        <option value="$PROJECT_DIR$/src/test/java/on/onn/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/on/onn/Testss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/teachers_learners/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/teachers_learners/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/teachers_learners/Subjects.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/teachers_learners/Learner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/teachers_learners/Testss.java" />
       </list>
     </option>
   </component>
@@ -53,7 +122,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="234" />
     <option name="y" value="96" />
     <option name="width" value="940" />
@@ -65,40 +134,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="techers_learners_and_lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techers_learners_and_lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="teachers-learners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teachers-learners" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="techers_learners_and_lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techers_learners_and_lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="teachers-learners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teachers-learners" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="teachers-learners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teachers-learners" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="techers_learners_and_lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techers_learners_and_lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="teachers-learners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teachers-learners" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="techers_learners_and_lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techers_learners_and_lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="teachers-learners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teachers-learners" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="teachers-learners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teachers-learners" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="teachers-learners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teachers-learners" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="teachers-learners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teachers-learners" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="teachers_learners" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560296367214" />
+    <property name="settings.editor.selected.configurable" value="studioMain" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.teachers_learners" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,6 +214,63 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Testss.addingNamesAndSubject">
+    <configuration name="Testss.addingNamesAndSubject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techers_learners_and_lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.teachers_learners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.teachers_learners" />
+      <option name="MAIN_CLASS_NAME" value="net.teachers_learners.Testss" />
+      <option name="METHOD_NAME" value="addingNamesAndSubject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testss.nh" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techers_learners_and_lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.teachers_learners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.teachers_learners" />
+      <option name="MAIN_CLASS_NAME" value="net.teachers_learners.Testss" />
+      <option name="METHOD_NAME" value="nh" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testss.testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techers_learners_and_lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.teachers_learners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.teachers_learners" />
+      <option name="MAIN_CLASS_NAME" value="net.teachers_learners.Testss" />
+      <option name="METHOD_NAME" value="testing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Testss.addingNamesAndSubject" />
+        <item itemvalue="JUnit.Testss.testing" />
+        <item itemvalue="JUnit.Testss.nh" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -125,50 +285,157 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Testss_nh - 2019.06.11 at 18h 27m 29s.xml">
+      <configuration name="Testss.nh" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_nh - 2019.06.11 at 18h 30m 14s.xml">
+      <configuration name="Testss.nh" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_nh - 2019.06.11 at 22h 34m 44s.xml">
+      <configuration name="Testss.nh" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_nh - 2019.06.11 at 22h 36m 49s.xml">
+      <configuration name="Testss.nh" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_testing - 2019.06.12 at 01h 08m 43s.xml">
+      <configuration name="Testss.testing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_testing - 2019.06.12 at 01h 10m 50s.xml">
+      <configuration name="Testss.testing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_testing - 2019.06.12 at 01h 11m 56s.xml">
+      <configuration name="Testss.testing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_addingNamesAndSubject - 2019.06.12 at 01h 33m 32s.xml">
+      <configuration name="Testss.addingNamesAndSubject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_addingNamesAndSubject - 2019.06.12 at 01h 37m 16s.xml">
+      <configuration name="Testss.addingNamesAndSubject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testss_addingNamesAndSubject - 2019.06.12 at 01h 40m 06s.xml">
+      <configuration name="Testss.addingNamesAndSubject" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="234" y="96" width="940" height="555" extended-state="0" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3691275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26975685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4765258" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32781458" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2268212" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Console" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32781458" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/on/onn/Class2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/on/onn/jj.form" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/on/onn/jj.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/on/onn/Class1.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/teachers_learners/Subjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/teachers_learners/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/teachers_learners/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/teachers_learners/Learner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#178#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/teachers_learners/Testss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
