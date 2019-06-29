@@ -1,7 +1,7 @@
 package net.teachers_learners;
 
 public class Teacher implements  Person {
-    public String firstName() {
+    public String firstName(String name) {
         return null;
     }
 
@@ -10,7 +10,7 @@ public class Teacher implements  Person {
         return null;
     }
 
-    public String email() {
+    public String emailAddress() {
 
         return null;
     }

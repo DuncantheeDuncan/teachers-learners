@@ -6,14 +6,15 @@ public enum Subjects {
     English,
     Zulu,
     Venda,
-    Ecconomics,
+    Economics,
     History,
     Geography,
-    Physical_Sccience,
-    Busines_studies,
+    Physical_Science,
+    Business_studies,
     Tourism,
     isi_Xhosa,
-    Aggriculture,
-    Technology
+    Agriculture,
+    Technology;
+
 
 }
